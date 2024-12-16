@@ -1,1 +1,1 @@
-A really intelligent system
+A.R.I.S is a personal assinstant that I am developing, it is inspired by J.A.R.V.I.S and stands for "A really intelligent system"
